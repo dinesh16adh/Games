@@ -1,0 +1,1 @@
+The kbc.ipynb is the concept implemented as the kobancha corore pati in this I have implemented the concept of function, list, statement, loop of the python if you want to play this you can easily use this.
